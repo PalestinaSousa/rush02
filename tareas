@@ -1,0 +1,24 @@
+Diccionario -> Leerá desde C con open.
+Abra el fichero
+Lea el fichero
+Escriba el fichero 
+Cierre el fichero. 
+Control de espacios
+Control de llave valor.
+
+Manejo de errores.
+- Si no es número
+- Si no recibo 2 o 3 parámetros.
+- Si recibo un número negativo.
+- Utilizar diccionario.
+
+Funcionalidades:
+- Check Number
+- Check InDictionary
+- Atoi
+- Remove Spaces
+- Remove Colon
+- Modify Dictionary
+- Add Dictionary
+
+
