@@ -11,6 +11,7 @@
 /* ************************************************************************** */
 
 #include <unistd.h>
+#include "ft_utils.h"
 
 int	main(int ac, char **av)
 {
@@ -23,8 +24,8 @@ int	main(int ac, char **av)
 		}
 		else
 		{
-			// Aquí llamamos a la función principal con un argumento
-			ft_print_oneargument(*av[1]);
+		//Aquí llamamos a la función principal con un argumento
+		//ft_print_oneargument(*av[1]);
 			return (0);
 		}
 	}
@@ -37,9 +38,8 @@ int	main(int ac, char **av)
 		}
 		else
 		{
-			//Comentario en el de ana
 			//Aquí llamamos a la función principal con dos argumentos
-			ft_print_twoargument(*av[1], *av[2]);
+			//ft_print_twoargument(*av[1], *av[2]);
 			return (1);
 		}
 	}
