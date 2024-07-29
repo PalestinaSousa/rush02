@@ -1,0 +1,7 @@
+ Entré en el break de fscanf0, zeroEl valor de dict.key es: 0
+El valor de dict.key es: 1
+El valor de dict.key es: 2
+El valor de dict.key es: 3
+El valor de dict.key es: 4
+Entré en el resultado de valueEl valor de dict.key es: 5
+El valor de i después de print_unidades 0
